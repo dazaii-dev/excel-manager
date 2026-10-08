@@ -15,7 +15,7 @@
   </Hosts>
   
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://ruelchristian.github.io/excel-manager/taskpane.html"/>
+    <SourceLocation DefaultValue="https://dazaii-dev.github.io/excel-manager/taskpane.html"/>
   </DefaultSettings>
   
   <Permissions>ReadWriteDocument</Permissions>
